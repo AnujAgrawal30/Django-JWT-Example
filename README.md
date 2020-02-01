@@ -7,7 +7,7 @@ After running this server, you can clone and run the Angular website using the i
 
 You can use these two authentications to log into the chat room:
 - **Username:** anuj  **Password:** password
-- **Username:** admin  **Password:** passsword
+- **Username:** admin  **Password:** Password@2020
 
 To add new user for authentication: 
 - Open browser, and go to `127.0.0.1:8000/admin` while the server is running
