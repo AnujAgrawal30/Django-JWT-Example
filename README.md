@@ -14,4 +14,4 @@ To add new user for authentication:
 - Login with anuj username provided above
 - Go to Users and add another user with credentials as required
 
-You can open two tabs in the different browser and login with different username and password to check.
+You can open two tabs in the different browser and login with different username and password to check..
