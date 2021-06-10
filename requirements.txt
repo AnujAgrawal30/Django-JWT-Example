@@ -33,7 +33,7 @@ pycparser==2.19
 PyHamcrest==2.0.0
 PyJWT==1.7.1
 pylint==2.4.3
-pyOpenSSL==19.1.0
+pyOpenSSL==20.0.1
 pytz==2019.3
 redis==2.10.6
 service-identity==18.1.0
