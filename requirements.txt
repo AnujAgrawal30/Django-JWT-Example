@@ -10,7 +10,7 @@ certifi==2019.11.28
 cffi==1.14.0
 channels==2.4.0
 channels-redis==2.4.1
-colorama==0.4.1
+colorama==0.4.4
 constantly==15.1.0
 cryptography==2.8
 daphne==2.4.1
