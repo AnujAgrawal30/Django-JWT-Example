@@ -14,4 +14,5 @@ updates:
       interval: "daily"
     ignore:
       - dependency-name: "*"
-      
+      - dependency-name: "django*"
+      - dependency-name: "z*"
